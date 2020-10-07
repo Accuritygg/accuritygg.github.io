@@ -1,2 +1,2 @@
-# accuritygg.github.io
+# https://accuritygg.github.io
 Site
